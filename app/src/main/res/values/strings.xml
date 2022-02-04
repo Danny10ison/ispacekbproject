@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BootCamp Attendees App</string>
+    <string name="heading1">iSpace in Partnership with Google</string>
+    <string name="progress_info1">Loading Resources</string>
+    <string name="creator_name">dannyose</string>
+    <string name="skip_intro">Skip Intro</string>
+    <string name="next">NEXT</string>
+</resources>
