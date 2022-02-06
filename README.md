@@ -10,3 +10,7 @@ Project Files From Kotlin Bootcamp 1 - @iSpace
 
 ## Difficulty
 + Make project display profile image of each student
+
+## Todos
++ Display profile image
++ Update project with suitable theme(color, fonts, etc)
